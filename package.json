@@ -1,0 +1,19 @@
+{
+  "name": "i18n-formatter-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geexup/i18n-formatter-loader.git"
+  },
+  "author": "geexup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geexup/i18n-formatter-loader/issues"
+  },
+  "homepage": "https://github.com/geexup/i18n-formatter-loader#readme"
+}
