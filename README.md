@@ -1,1 +1,1 @@
-# i18n-formatter-loader
+# i18n-formatter-plugin
