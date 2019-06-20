@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/geexup/i18n-formatter-plugin#readme",
   "dependencies": {
-    "through2": "2.0.3",
-    "vinyl": "2.0.1",
-    "vinyl-fs": "2.4.4",
+    "through2": "3.0.1",
+    "vinyl": "2.2.0",
+    "vinyl-fs": "3.0.3",
     "watch": "^1.0.2"
   }
 }
